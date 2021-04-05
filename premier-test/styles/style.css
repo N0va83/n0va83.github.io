@@ -1,0 +1,43 @@
+html {
+    font-size: 10 px; /* taille de la police*/
+    font-family: 'PT sans', sans serif ; /* style d'écriture, résultat obtenu à partir de Google font */
+}
+
+html {
+    background-color: #00879f; /* couleur de l'arrière-plan de la page*/
+  }
+
+  body {
+    width: 1200px; /* longueur du corps de la page */
+    margin: 0 auto; /* marge autour du texte*/
+    background-color: whitesmoke; /* couleur d'arrire-plan du texte*/
+    padding: 0 20px 20px 20px; /* espace autour du contenu/corps */
+    border: 5px solid black; /* taille de la bordure*/
+  }
+
+h1 {
+    font-size: 60px; /* taille du titre et alignement */
+    text-align: center;
+  }
+
+  h1 {
+    margin: 0; /* effets du titre (marge, remplissage, couleur, effet d'ombre) */
+    padding: 20px 0;
+    color: #00879f;
+    text-shadow: 3px 3px 1px rgba(157, 208, 231, 0.938);
+  }
+  
+  p, li {
+    font-size: 16px; /* taille du texte, taille de ligne et espacement de caractères*/
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  img {
+    display: block; /* pour centrer l'image*/
+    margin: 0 auto;
+  }
+
+
+
+ 
